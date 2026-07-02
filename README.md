@@ -24,3 +24,12 @@ The custom webpage was successfully displayed in the browser.
 ## Screenshots
 - HTML code
 - Webpage output
+
+## What I Learned
+
+- Learned how to launch an AWS EC2 Ubuntu instance.
+- Learned how to connect using EC2 Instance Connect.
+- Learned how to install and manage the Nginx web server.
+- Learned how to create and host a custom HTML page.
+- Learned how to deploy a basic website on AWS.
+  
